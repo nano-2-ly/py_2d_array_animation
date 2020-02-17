@@ -21,4 +21,5 @@ ser  = serial.Serial("COM3", baudrate= 115200,
             
 ~~~
 
-Third, watch beautiful graph.
+Third, watch beautiful graph.<br>
+<img src="./picture/ex.PNG" width="50%" height="50%"></br>
