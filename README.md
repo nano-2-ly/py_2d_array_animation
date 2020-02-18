@@ -17,7 +17,7 @@ ser  = serial.Serial("COM3", baudrate= 115200,
             )
 
 
-// Change "COM3" to yout arduino port. "COM3" is just example. :)
+// Change "COM3" to your arduino port. "COM3" is just example. :)
             
 ~~~
 
